@@ -1,0 +1,12 @@
+theme = "GitHub Dark Default"
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 11
+window-padding-x = 10
+cursor-style = underline
+background-opacity = 0.9
+background-blur = 20
+window-decoration = none
+clipboard-read = allow
+clipboard-write = allow
+shell-integration = zsh
+shell-integration-features = no-cursor
