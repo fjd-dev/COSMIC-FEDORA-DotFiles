@@ -15,7 +15,7 @@
   "show_edit_predictions": false,
   "theme": {
     "mode": "system",
-    "light": "Github Dark",
+    "light": "GitHub Dark Default",
     "dark": "GitHub Dark Default",
   },
   "tab_bar": {
